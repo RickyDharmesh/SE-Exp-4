@@ -1,6 +1,16 @@
 # AIM:
 
+To design a Hospital Management System in StarUML using class, use case, sequence, communication, activity, and package diagrams.
+
 # SRS (Procedure):
+
+Identify the system users: Patient, Receptionist, Doctor, Nurse, Billing Clerk, and Administrator.
+Define the main functions: patient registration, appointment booking, consultation, prescriptions, admission, room assignment, invoicing, and payment.
+Create a use case diagram showing which users perform these functions.
+Create a class diagram showing the hospital entities, their attributes, methods, and relationships.
+Create sequence and communication diagrams for the appointment booking process.
+Create an activity diagram for the patient visit, from registration through payment.
+Create a package diagram showing the system modules and their dependencies.
 
 # DIAGRAMS:
   # Class Diagram :
@@ -28,3 +38,5 @@
   <img width="992" height="441" alt="Screenshot 2026-11-23 105407" src="https://github.com/user-attachments/assets/6902bfb0-552c-4696-9ae4-b41d1325aa3d" />
 
 # RESULT:
+
+Six UML diagrams were created successfully for the Hospital Management System.
